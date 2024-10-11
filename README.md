@@ -2,4 +2,4 @@
 Projetos da trilha GFT Start #6 - Lógica de Programação.
 
 ### 1º Desafio de projeto
-[Modelagem e Diagramação de um Componente iPhone](https://github.com/Luiz-Paulo-Morais/dio-GFT-Start-6-Logica-de-Programacao-projetos)
+[Classificador de nível de Herói](https://github.com/Luiz-Paulo-Morais/dio-GFT-Start-6-Logica-de-Programacao-projetos/tree/main/Classificador-de-Nivel-de-Heroi)
